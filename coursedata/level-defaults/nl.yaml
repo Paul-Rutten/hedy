@@ -1,6 +1,6 @@
 ---
   1: 
-    intro_text: "Welkom bij Hedy! In Level 1 kun je de commando's print, ask en echo gebruiken. Druk op de blauwe knop en de code wordt alvast voor jou getypt! Probeer de code dan zelf met de groene 'Voer de code uit' knop onder het links programmeerveld."
+    intro_text: "Welkom bij Hedy! In Level 1 kun je de commando's print, ask en echo gebruiken. Druk op de blauwe knop en de code wordt alvast voor jou getypt! Probeer de code dan zelf met de groene 'Voer de code uit' knop links onder het programmeerveld."
     start_code: "print hallo wereld!"
     commands: 
       - 
@@ -19,7 +19,7 @@
         example: "Bijvoorbeeld: echo dus je lievelingskleur is..."
         demo_code: "ask Wat is je lievelingskleur?\necho dus je lievelingskleur is..."
   2: 
-    intro_text: "Print werkt nog zoals in Level 1, maar let op! ask werkt nu een klein beetje anders, het antwoord kun je opslaan dan dan printen. Echo heb je niet meer nodig. In Level 2 kun je ook deze commando's gebruiken:"
+    intro_text: "Print werkt nog zoals in Level 1, maar let op! ask werkt nu een klein beetje anders, het antwoord kun je opslaan en dan printen. Echo heb je niet meer nodig. In Level 2 kun je ook deze commando's gebruiken:"
     start_code: "print hallo wereld!"
     commands: 
       - 
@@ -140,7 +140,7 @@
   8:
     start_code: "for i in range 1 to 11\n    print i\nprint 'wie niet weg is is gezien'"
     intro_text: |
-      print werken nog zoals eerst, maar repeat is nu veranderd!
+      print werkt nog zoals eerst, maar repeat is nu veranderd!
       Je typt nu for i in range 1 tot 5, in plaats van repeat 5 times. Het leuke is dat je die variabele i ook in je programma kan gebruiken!
       Je moet nog steeds alle regels die herhaald worden inspringen (dat betekent dat ze moeten beginnen met vier spaties)
 
